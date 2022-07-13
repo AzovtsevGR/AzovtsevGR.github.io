@@ -71,8 +71,8 @@
 Двое детей (Татьяна и Галина)  
 
 # Деятельность в области биологических наук #
-**участник в орг.:**  старший научный сотрудник	  
-Центральный сибирский ботанический сад - СО РАН  
+**должность:**  старший научный сотрудник	  
+**организация:**  Центральный сибирский ботанический сад - СО РАН  
 [Лаборатория биохимии](http://www.csbg.nsc.ru/ru/struktura/nauchnye-podrazdeleniya/laboratoriya-fitohimii/istoriya-13.html)  
 
 История  
@@ -83,9 +83,9 @@
 так как молодые аспиранты и соискатели Демина Т.Г., Азовцев Г.Р., Волхонская Т.А., Высочина Г.И., Валуцкая А.Г., Киселева А.В., Полякова Л.В., Пеккер Е.Г., Кадырова Р.Б. успешно защитили кандидатские диссертации по двум основным направлениям – в области "белковой биохимии" и биохимии веществ вторичного синтеза. 
 С 1968 г. по 1991 г. лабораторию возглавлял к.б.н. Киселев В.Е.
 
-[Высочина Г.И.](http://www.csbg.nsc.ru/ru/struktura/nauchnye-podrazdeleniya/laboratoriya-fitohimii/sotrudniki-12/vysochina-galina-ivanovna.html)  
-[Кукушкина Т.А.](http://www.csbg.nsc.ru/ru/struktura/nauchnye-podrazdeleniya/laboratoriya-fitohimii/sotrudniki-12/kukushkina-tatyana-abdulhailovna.html)  
-[Кукушкина Т.А.](https://csbg-nsk.ru/kukushkina_ta)  
+> [Высочина Г.И.](http://www.csbg.nsc.ru/ru/struktura/nauchnye-podrazdeleniya/laboratoriya-fitohimii/sotrudniki-12/vysochina-galina-ivanovna.html)  
+> [Кукушкина Т.А.](http://www.csbg.nsc.ru/ru/struktura/nauchnye-podrazdeleniya/laboratoriya-fitohimii/sotrudniki-12/kukushkina-tatyana-abdulhailovna.html)  
+> [Кукушкина Т.А.](https://csbg-nsk.ru/kukushkina_ta)  
 
 # Изобретения, открытия и награды #  
 
@@ -95,9 +95,9 @@
 Медаль "За победу над Германией"
 
 Орден Отечественной войны I степени  
-Дата представления к награде: 01.08.1986  
-Инициатор: Министр обороны СССР  
-Реквизиты документа: ЦАМО. Юбилейная картотека награждений, шкаф 1, ящик 16. Номер документа 54.  
+> Дата представления к награде: 01.08.1986  
+> Инициатор: Министр обороны СССР  
+> Реквизиты документа: ЦАМО. Юбилейная картотека награждений, шкаф 1, ящик 16. Номер документа 54.  
 
 ## Патенты, изобретения ##
 Изобретатель АЗОВЦЕВ ГРИГОРИЙ РОМАНОВИЧ является автором\соавтором следующих патентов:  
@@ -155,39 +155,32 @@ Siberia: Altay. On grassy slopes, in meadows, in forest clearings.
 
 ### 1965 ###
 Джемухадзе К. Μ., Азовцев Г. Р. 1965. Катехины кровохлёбки (Sanguisorba L.) И Докл. АН СССР. Т. 161, № 3. С. 715-717.  
-К. М. Джемухадзе, Г. Р. Азовцев. Докл. АН СССР, 1965, 161, 715.  
-K. M. Dzhemukhadze and G. R. Azovtsev, Dokl. Akad. Nauk SSSR, 161(3), 715–717 (1965).  
-> https://www.jstage.jst.go.jp/article/cpb1958/33/4/33_4_1503/_article  
-> https://www.researchgate.net/publication/9292334_The_catechins_of_Sanguisorba  
-> https://dankonoy.com/ege22/2022/02/19/rod-27-sibiraea-maxim-sibirka/  
-> https://e-varamu.ee/item/VSG77DTYXG4NU4C6FL7O55YT2UTBLUBJ?lang=de  
-
-Pealkiri	Фенольные соединения и их биологические функции : материалы 1-го Всесоюзного симпозиума по фенольным соединениям, состоявшегося 14-17 декабря 1966 г. в Москве / Академия наук СССР, Институт физиологии растений им. К. А. Тимирязева, Институт биохимии им. А. Н. Баха  
-Ilmunud	Москва : Наука, 1968  
-Kirjeldus	421, [1] lk. : ill, ; 22 cm  
-Püsilink	https://www.ester.ee/record=b1857730*est  
+(ENG) K. M. Dzhemukhadze and G. R. Azovtsev, Dokl. Akad. Nauk SSSR, 161(3), 715–717 (1965).  
+> [link 1]( https://www.jstage.jst.go.jp/article/cpb1958/33/4/33_4_1503/_article) 
+[link 2](https://www.researchgate.net/publication/9292334_The_catechins_of_Sanguisorba)
+[link 3](https://dankonoy.com/ege22/2022/02/19/rod-27-sibiraea-maxim-sibirka/)
+[link 4](https://e-varamu.ee/item/VSG77DTYXG4NU4C6FL7O55YT2UTBLUBJ?lang=de)  
 
 ### 1966 ###
-[Г. Р. Азовцев. Растительные ресурсы, 1966, 2, 70.  ](https://link.springer.com/article/10.1023/A:1026319524715)     
-[G. R. Azovtsev. Variability in concentration of tannic acid in Sanguisorba officinalis L., Rast. Res., 2(1), 70–76 (1966).](https://bibliotekanauki.pl/articles/71136.xml)  
+(ENG) Г. Р. Азовцев. Растительные ресурсы, 1966, 2, 70.  [from](https://link.springer.com/article/10.1023/A:1026319524715)     
+(ENG) G. R. Azovtsev. Variability in concentration of tannic acid in Sanguisorba officinalis L., Rast. Res., 2(1), 70–76 (1966).  [from](https://bibliotekanauki.pl/articles/71136.xml)  
 
 ### 1967 ###
 Г. Р. Азовцев. Шв. СО АН СССР, серия биол.-мед. наук, № 1, 1967.  
 
 ### 1968 ###
-Фенoльные сoединения и их биoлoгические функции : материалы 1 Всесоюзного симпозиума по фенольным соединениям, состоявшегося 14-17 декабря 1966 г. в Москве / АН СССР, Ин-т физиологии растений им. К. А. Тимирязева [и др.] ; отв. ред. Курсанов А. Л. и Запрометов М. Н. - Москва : Наука, 1968. - 421 с. : ил. - Библиогр. в конце докл.  
-сборник   
-
+Фенольные соединения и их биологические функции : материалы 1-го Всесоюзного симпозиума по фенольным соединениям, состоявшегося 14-17 декабря 1966 г. в Москве / Академия наук СССР, Институт физиологии растений им. К. А. Тимирязева, Институт биохимии им. А. Н. Баха  
 Фенольные соединения и их биологические функции : материалы 1-го Всесоюз. симпозиума по фенольным соединениям, состоявшегося 14-17 дек. 1966 г. в Москве / отв. ред. акад. А.Л. Курсанов и д-р биол. наук М.Н. Запрометов  
 Курсанов А.Л. , Запрометов М.Н.; Год издания  1968; Место издания  М. : Наука  
 https://rusneb.ru/catalog/002676_000027_IRKNB-RU_%D0%98%D0%9E%D0%93%D0%A3%D0%9D%D0%91_HOBBIT_577.4_%D0%A4+42-000000-340893/  
+> [link](https://www.ester.ee/record=b1857730*est)  
 
 
 https://csbg-nsk.ru/kukushkina_ta#!/tab/358084232-2  
 https://www.dissercat.com/content/farmakognosticheskoe-izuchenie-krovokhlebki-lekarstvennoi-sanguisorba-officinalis-l-i-perspe  
 
 Азовцев Г. P., Джемухадзе К. Μ. 1968. Фенольные соединения кровохлёбки // Фенольные соединения и их биологические функции. Μ. С. 212-217.  
-G. R. Azovtsev and K. M. Dzhemukhadze, Phenolic Compounds and Their Biological Functions [in Russian], Meditsina, Moscow (1968), pp. 212–217.  
+(ENG) G. R. Azovtsev and K. M. Dzhemukhadze, Phenolic Compounds and Their Biological Functions [in Russian], Meditsina, Moscow (1968), pp. 212–217.  
 
 ### 1969 ###
 Азовцев Г. Р. 1969. Биохимическое исследование представителей рода Sanguisorba L. на лейкоантоциановые соединения И Изв. Сиб. отд-ния АН СССР. Сер. биол. науки. № 15, вып. 3. С. 68-72.  
@@ -222,7 +215,7 @@ Other:"Title in original language could not be transcribed. In Russian; Includes
 
  ссылка https://zaguan.unizar.es/record/70587/files/texto_completo.pdf?version=1  
  файл texto_completo.pdf1.pdf  
- Krasnoborov I.M., Azovtsev G.R. and Orlov V.P., A new species of the genus Hedysarum (Fabaceae) from the southern Siberia, Bot. Zhurn. (Moskow Leningrad) 70, 1985, 968–973, (In Russian).  
+(ENG) Krasnoborov I.M., Azovtsev G.R. and Orlov V.P., A new species of the genus Hedysarum (Fabaceae) from the southern Siberia, Bot. Zhurn. (Moskow Leningrad) 70, 1985, 968–973, (In Russian).  
  
 ### 1986 ###
 Головнёв В. А. и др. 1986. Влияние полифенолов манжетки (Alchemilla vulgaris) на микроциркуляторное русло при метаболических нарушениях миокарда / В. А. Головнёв, А. А. Зы­ков, 3. Т. Бикбулатов, Г. Р. Азовцев // Новые лекарственные препараты из растений Сиби­ри и Дальнего Востока. Томск. С. 40-41.  
